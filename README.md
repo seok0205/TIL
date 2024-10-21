@@ -1,15 +1,15 @@
-# TIL
- Today I learned
+## TIL
+#Today I learned
 
-24/10/21 Today I learned
-    MachineLearning
-        Áöµµ ÇĞ½À
-    - logistic regression
-    - Support Vector Machine
-    - K-Nearest Neighbors
-    - Naive Bayes
-    - Decision Tree
-        ºñÁöµµ ÇĞ½À
-    - k-means clustering
-    - °èÃşÀû ±ºÁıÈ­
-    - DBSCAN
+24/10/21 Today I learned  
+    MachineLearning  
+    ì§€ë„ í•™ìŠµ  
+    1. logistic regression  
+    2. Support Vector Machine  
+    3. K-Nearest Neighbors  
+    4. Naive Bayes  
+    5. Decision Tree  
+    ë¹„ì§€ë„ í•™ìŠµ  
+    - k-means clustering  
+    - ê³„ì¸µì  êµ°ì§‘í™”  
+    - DBSCAN  
