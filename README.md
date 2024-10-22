@@ -3,14 +3,14 @@
 
 24/10/22 Today I learned : MachineLearning  
     비지도 학습  
-    - PCA  
-    - t-SNE  
-    - LDA  
+    - PCA
+    - t-SNE
+    - LDA
     앙상블 학습(Ensemble Learning)  
-    - Bagging and Boosting  
-    - Random Forest  
-    - GBM  
-    - XGBoost  
+    - Bagging and Boosting
+    - Random Forest
+    - GBM
+    - XGBoost
 
     DeepLearning  
     - 개념
