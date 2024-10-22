@@ -3,19 +3,19 @@
 
 24/10/22 Today I learned : MachineLearning  
     비지도 학습  
-    - PCA
-    - t-SNE
-    - LDA
+    - PCA  
+    - t-SNE  
+    - LDA  
     앙상블 학습(Ensemble Learning)  
-    - Bagging and Boosting
-    - Random Forest
-    - GBM
-    - XGBoost
-
+    - Bagging and Boosting  
+    - Random Forest  
+    - GBM  
+    - XGBoost  
+    
     DeepLearning  
-    - 개념
-    - 신경망의 기본 원리
-  
+    - 개념  
+    - 신경망의 기본 원리  
+
 24/10/21 Today I learned : MachineLearning  
     지도 학습  
     - logistic regression  
