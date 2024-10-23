@@ -1,0 +1,103 @@
+### 모델 구축 및 학습
+## 기본 문제 구축.
+import torch.nn as nn
+
+class MyModel(nn.Module):   # 모든 신경망 모델의 기본 클래스.
+    def __init__(self):
+        super(MyModel, self).__init__()
+        self.layer1 = nn.Linear(10, 20)
+
+    def forward(self, x):
+        x = self.layer1(x)
+        return x
+
+## 손실 함수
+# 회귀 문제에 주로 사용.
+loss_fn = nn.CrossEntropyLoss()
+
+# 분류 문제에 주로 사용.
+loss_fn = nn.MSELoss()
+
+## 최적화 알고리즘
+# 확률적 경사 하강법 최적화 알고리즘.
+import torch.optim
+optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
+
+# Adam 최적화 알고리즘.
+optimizer = torch.optim.Adam(model.parameters(), lr=0.001)
+
+## 데이터 로드 및 전처리
+# 사용자 정의 데이터셋을 만들기 위한 기본 클래스.
+from torch.utils.data import Dataset
+
+class MyDataset(Dataset):
+    def __init__(self, data, targets):
+        self.data = data
+        self.targets = targets
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        return self.data[idx], self.targets[idx]
+
+# 미니 배치 학습을 위한 데이터 로더.
+from torch.utils.data import DataLoader
+
+dataset = MyDataset(data, targets)
+dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+
+# 데이터 변환
+from torchvision import transforms
+
+transform = transforms.Compose([
+    transforms.ToTensor(),
+    transforms.Normalize((0.5,), (0.5,))
+])
+
+### GPU 사용
+## GPU 설정 및 텐서 이동
+# 모델을 GPU로 이동
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+model.to(device)
+
+# 텐서를 GPU로 이동
+inputs, targets = inputs.to(device), targets.to(device)
+
+### 모델 기법별 API
+## CNN
+# 2D 합성곱 레이어
+conv_layer = nn.Conv2d(in_channels=1, out_channels=32, kernel_size=3, stride=1, padding=1)
+
+## RNN
+# 기본 순환 신경망 레이어
+rnn_layer = nn.RNN(input_size=10, hidden_size=20, num_layers=2, batch_first=True)
+
+# LSTM layer
+lstm_layer = nn.LSTM(input_size=10, hidden_size=20, num_layers=2, batch_first=True)
+
+# GRU layer
+gru_layer = nn.GRU(input_size=10, hidden_size=20, num_layers=2, batch_first=True)
+
+## 트랜스포머(Transformer)
+# transformer 모델
+transformer_model = nn.Transformer(nhead=8, num_encoder_layers=6)
+
+# transformer encoder layer
+encoder_layer = nn.TransformerEncoderLayer(d_model=512, nhead=8)
+
+### 유틸리티 함수
+## 저장 및 로드
+# 모델 저장
+torch.save(model.state_dict(), 'model.pth')
+
+# 모델 로드
+model.load_state_dict(torch.load('model.pth'))
+model.eval()
+
+## 학습 및 평가 모드 설정
+# 모델을 학습 모드로 설정
+model.train()
+
+# 모델을 평가 모드로 설정
+model.eval()

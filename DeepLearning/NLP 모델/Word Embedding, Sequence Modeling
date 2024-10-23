@@ -1,0 +1,25 @@
+Word Embedding (워드 임베딩) :
+    단어를 고정된 크기의 벡터로 변환하는 기법, 단어 간의 의미적 유사성을 반영.
+    대표적으로 Word2Vec, GloVe가 있다.
+
+    Word2Vec :
+        단어를 벡터로 변환하는 두 가지 모델을 제공.
+        1.CVOW(Continuous Bag of Words) :
+            주변 단어(context)로 중심 단어(target)을 예측.
+        2.Skip-gram :
+            중심 단어(target)로 주변 단어(context)를 예측.
+        
+    GloVe(Gloval Vectors for Word Representation)
+        단어-단어 공기행렬(word-word co-occurrence matrix)을 사용, 단어 벡터를 학습.
+        전역적인 통계 정보를 활용하여 단어 간의 의미적 유사성을 반영.
+
+Sequence Modeling(시퀀스 모델링) :
+    순차적인 데이터를 처리하고 예측하는 모델링 기법.
+    주로 RNN, LSTM, GRU와 같은 순환 신경망을 사용.
+
+    1.입력 스퀀스
+        입력 데이터가 순차적인 형태로 제공, 예로 텍스트 데이터는 단어의 시퀀스로 표현.
+    2.은닉 상태
+        순환 신경망은 이전 시간 단계의 은닉 상태를 현재 시간 단계로 전달하여, 시퀀스 패턴을 학습.
+    3.출력 시퀀스
+        입력 스퀀스와 동일한 길이의 시퀀스일 수도 있고, 단일 값일 수도 있다.
