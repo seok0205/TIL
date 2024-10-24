@@ -1,6 +1,11 @@
 ## TIL
 #Today I learned  
 
+24/10/24 Today I learned  
+
+    - RNN(실습 완료)  
+    - 데이터 클리닝(미완료)  
+
 24/10/23 Today I learned : DeepLearning  
 
     신경망
