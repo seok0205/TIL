@@ -1,10 +1,22 @@
 ## TIL
 #Today I learned  
 
+24/10/25 Today I learned  
+  
+    ML  
+    - 데이터 전처리(실습 완료)  
+    - 분류 모델(실습 완료)  
+    - 군집화(K-means)(실습 완료)  
+
+    DL  
+    - CNN 모델(실습 완료)  
+    - 자연어 모델(실습 완료)  
+    - YOLO 모델(실습 완료)  
+  
 24/10/24 Today I learned  
 
     - RNN(실습 완료)  
-    - 데이터 클리닝(미완료)  
+    - 데이터 클리닝(미완료) -> 데이터 전처리(파일명 변경)  
 
 24/10/23 Today I learned : DeepLearning  
 
