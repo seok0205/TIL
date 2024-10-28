@@ -1,6 +1,13 @@
 ## TIL
 #Today I learned  
 
+24/10/28 Today I learned  
+
+    CH 2-1 실습  
+    - Netflix Review score prediction(미완료)
+    - Netflix Review sentiment analyze(NLP)
+    - Netflix Review Negative word analyze(WordCloud)
+
 24/10/25 Today I learned  
   
     ML  
