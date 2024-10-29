@@ -1,6 +1,12 @@
 ## TIL
 #Today I learned  
 
+24/10/29 Today I learned  
+
+    CH 2-1 실습  
+    - Netflix Review score prediction(완료)
+    - Netflix Review score prediction(improved Accuracy)(완료)
+
 24/10/28 Today I learned  
 
     CH 2-1 실습  
