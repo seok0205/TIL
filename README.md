@@ -1,20 +1,26 @@
-## TIL
-#Today I learned  
+## Today I learned  
 
-24/10/29 Today I learned  
+__24/10/30 Today I learned__  
+
+    Use AI model  
+    - AI 연구와 활용의 차이  
+    - 패키지 관리 및 가상환경  
+    - 허깅페이스  
+
+__24/10/29 Today I learned__  
 
     CH 2-1 실습  
     - Netflix Review score prediction(완료)
     - Netflix Review score prediction(improved Accuracy)(완료)
 
-24/10/28 Today I learned  
+__24/10/28 Today I learned__  
 
     CH 2-1 실습  
     - Netflix Review score prediction(미완료)
     - Netflix Review sentiment analyze(NLP)
     - Netflix Review Negative word analyze(WordCloud)
 
-24/10/25 Today I learned  
+__24/10/25 Today I learned__  
   
     ML  
     - 데이터 전처리(실습 완료)  
@@ -26,12 +32,12 @@
     - 자연어 모델(실습 완료)  
     - YOLO 모델(실습 완료)  
   
-24/10/24 Today I learned  
+__24/10/24 Today I learned__  
 
     - RNN(실습 완료)  
     - 데이터 클리닝(미완료) -> 데이터 전처리(파일명 변경)  
 
-24/10/23 Today I learned : DeepLearning  
+__24/10/23 Today I learned__ : DeepLearning  
 
     신경망
     - ANN
@@ -49,7 +55,7 @@
     - 하이퍼파라미터 튜닝 방법  
     - 모델 평가, 검증  
 
-24/10/22 Today I learned : MachineLearning  
+__24/10/22 Today I learned__ : MachineLearning  
 
     비지도 학습  
     - PCA  
@@ -66,7 +72,7 @@
     - 개념  
     - 신경망의 기본 원리  
 
-24/10/21 Today I learned : MachineLearning  
+__24/10/21 Today I learned__ : MachineLearning  
 
     지도 학습  
     - logistic regression  
