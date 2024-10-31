@@ -1,21 +1,34 @@
-## Today I learned  
+# Today I learned  
+
+[Click here to previous TIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)
+
+## 2024/10
+
+__24/10/31 Today I learned__  
+
+    Use AI model : 개념  
+    - GitHub Open Project를 통한 AI 활용  
+    - API로 AI 활용  
+
+    Use AI model : 실습  
+    - Pytorch_Transformer 모델 구현  
 
 __24/10/30 Today I learned__  
 
-    Use AI model  
-    - AI 연구와 활용의 차이  
-    - 패키지 관리 및 가상환경  
+    Use AI model : 개념  
+    - 연구와 활용의 차이  
+    - 패키지 관리, 가상환경  
     - 허깅페이스  
 
 __24/10/29 Today I learned__  
 
-    CH 2-1 실습  
+    CH 2-1  
     - Netflix Review score prediction(완료)
     - Netflix Review score prediction(improved Accuracy)(완료)
 
 __24/10/28 Today I learned__  
 
-    CH 2-1 실습  
+    CH 2-1  
     - Netflix Review score prediction(미완료)
     - Netflix Review sentiment analyze(NLP)
     - Netflix Review Negative word analyze(WordCloud)
@@ -84,4 +97,4 @@ __24/10/21 Today I learned__ : MachineLearning
     비지도 학습  
     - k-means clustering  
     - 계층적 군집화  
-    - DBSCAN  
+    - DBSCAN
