@@ -1,6 +1,22 @@
 # Today I learned  
 
-[Click here to previous TIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)
+[Click here to previous TIL, WIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)
+
+## 2024/11
+
+__24/11/01 Today I learned__  
+
+    Use AI model : 실습  
+    * Transformers(NLP models)  
+        - BERT
+        - GPT-2
+        - RoBERTa
+        - Sentiment Analysis
+        - Word2Vec
+        - M2M100
+        - NLLB-200
+    * 사전 학습 및 Fine-Tuning  
+        - BERT Fine-tuning 실습
 
 ## 2024/10
 
