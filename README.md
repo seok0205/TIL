@@ -4,6 +4,18 @@
 
 ## 2024/11
 
+__24/11/04 Today I learned__  
+
+    Use AI model : 실습  
+    * Generative AI
+        - Generative AI
+        - 기본 원리
+        - Gpt-3.5-turbo
+        - Stable Diffusion
+    * Serving
+        - model serving
+        - FastAPI API 구출(hello.py)
+        
 __24/11/01 Today I learned__  
 
     Use AI model : 실습  
