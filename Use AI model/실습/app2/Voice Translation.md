@@ -182,4 +182,4 @@
 - 번역할 문장 입력 후 '번역 및 음성 생성' 버튼 클릭
 ![실행2](./audio_output/result02.png)
 - 생성된 오디오  
-![오디오1](./audio_output/output_audio.mp3)
+![링크 접속 후 'View raw' 클릭 시 음성 파일 다운 가능](./audio_output/output_audio.mp3)
