@@ -3,14 +3,15 @@ import requests
 from pydub import AudioSegment
 import io
 from dotenv import load_dotenv
+import playsound
 
-load_dotenv(dotenv_path='Use AI model\실습\ElevenLabs\seok.env')    # 환경변수에 저장한 api, url 불러오기.(보안)
+load_dotenv(dotenv_path='seok.env')    # 환경변수에 저장한 api, url 불러오기.(보안)
 
 api_key = os.getenv("API_KEY")
 url = os.getenv("API_URL")
 
 # 설정 가능한 변수
-output_filename = "output_audio.mp3"
+output_filename = "output_audio.wav"
 
 headers = {
     "xi-api-key":api_key,
@@ -41,10 +42,10 @@ if response.status_code == 200:
             audio_content += chunk
 
     current_dir = os.path.dirname(os.path.abspath(__file__))  # 현재 파일의 디렉토리 경로
-    output_path = os.path.join(current_dir, "output_audio.mp3") # outputaudio 파일 경로 생성
+    output_path = os.path.join(current_dir, "output_audio.wav") # outputaudio 파일 경로 생성
 
     segment = AudioSegment.from_mp3(io.BytesIO(audio_content))
-    segment.export(output_path, format="mp3")   # 생성 파일 지정 경로에 저장.
+    segment.export(output_path, format="wav")   # 생성 파일 지정 경로에 저장.
     print(f"Success! Wrote audio to {output_filename}")
 
 else:
