@@ -4,6 +4,16 @@
 
 ## 2024/11
 
+__24/11/06 Today I learned__  
+
+    Use AI model : 실습  
+    * app(FastAPI, ChatGPT 활용)
+        - Chat service
+    * app2(PyQt5, ElevenLabs 활용)
+        - Voice Translation
+    * app3(OpenCV, YOLOv8 활용)
+        - Real-time object detection
+
 __24/11/05 Today I learned__  
 
     Use AI model : 실습  
@@ -14,6 +24,9 @@ __24/11/05 Today I learned__
         - eleven_multilingual_v2
     * FastAI
         - Pretrained Model
+    * YOLOv8
+        - image
+        - webcam
 
 __24/11/04 Today I learned__  
 
@@ -24,7 +37,7 @@ __24/11/04 Today I learned__
         - Stable Diffusion
     * Serving
         - model serving
-        - FastAPI API 구출(hello.py)
+        - FastAPI API 구축(hello.py)
     * ChatGPT
         - Gpt-3.5-turbo
         
