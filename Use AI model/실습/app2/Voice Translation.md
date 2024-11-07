@@ -104,7 +104,7 @@
             self.setWindowTitle("번역 및 음성 생성기")
             self.show()
     ```
-    
+
 4. translate_and_generate_audio : 번역 및 음성 생성
 
     - 번역 수행 : 입력된 영어 텍스트 토큰화, 번역 모델 통해 한국어 변환.
