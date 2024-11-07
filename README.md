@@ -4,6 +4,11 @@
 
 ## 2024/11
 
+__24/11/07 Today I learned__  
+
+    LLM, RAG  
+    - concept of LLM  
+
 __24/11/06 Today I learned__  
 
     Use AI model : 실습  
