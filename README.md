@@ -6,19 +6,29 @@
 
 __24/11/08 Today I learned__  
 
-LLM, RAG  
+    LLM, RAG  
+    - concept of LLM
+    - OpenAI Playground
+    - Prompt Engineering
+
 [concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
 [OpenAI Playground](./LLM,%20RAG/OpenAI%20Playground.md)  
 [Prompt Engineering](./LLM,%20RAG/Prompt%20Engineering.md)  
 
 __24/11/07 Today I learned__  
 
-LLM, RAG  
+    LLM, RAG  
+    - concept of LLM
+
 [concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
 
 __24/11/06 Today I learned__  
 
-Use AI model : 실습  
+    Use AI model : 실습  
+    - app(FastAPI, ChatGPT)
+    - app2(PyQt5, ElevenLabs)
+    - app3(OpenCV, YOLOv8)
+
 [app(FastAPI, ChatGPT 활용)](./Use%20AI%20model/실습/app/Chat%20service.md) - Chat service  
 [app2(PyQt5, ElevenLabs 활용)](./Use%20AI%20model/실습/app2/Voice%20Translation.md) - Voice Translation  
 [app3(OpenCV, YOLOv8 활용)](./Use%20AI%20model/실습/app3/Real-time%20object%20detection.ipynb) - Real-time object detection  
@@ -27,7 +37,7 @@ __24/11/05 Today I learned__
 
     Use AI model : 실습  
     * ChatGPT
-        - [ChatGPT API](./Use%20AI%20model/실습/ChatGPT/ChatGPT%20API.md)
+        - ChatGPT API
         - Gpt-4o
     * ElevenLabs
         - eleven_multilingual_v2
@@ -36,6 +46,11 @@ __24/11/05 Today I learned__
     * YOLOv8
         - image
         - webcam
+
+[ChatGPT](./Use%20AI%20model/실습/ChatGPT/)  
+[ElevenLabs](./Use%20AI%20model/실습/ElevenLabs/)  
+[FastAI](./Use%20AI%20model/실습/FastAI/)  
+[YOLOv8](./Use%20AI%20model/실습/YOLOv8/)  
 
 __24/11/04 Today I learned__  
 
@@ -49,7 +64,11 @@ __24/11/04 Today I learned__
         - FastAPI API 구축(hello.py)
     * ChatGPT
         - Gpt-3.5-turbo
-        
+
+[Generative AI](./Use%20AI%20model/실습/Generative%20AI/)  
+[Serving](./Use%20AI%20model/실습/Serving/)  
+[Gpt-3.5-turbo](./Use%20AI%20model/실습/ChatGPT/Gpt-3.5-turbo.py)  
+
 __24/11/01 Today I learned__  
 
     Use AI model : 실습  
@@ -63,6 +82,9 @@ __24/11/01 Today I learned__
         - NLLB-200
     * 사전 학습 및 Fine-Tuning  
         - BERT Fine-tuning 실습
+
+[Transformers(NLP models)](./Use%20AI%20model/실습/Hugging%20Face/Transformers(NLP%20models)/)  
+[사전 학습 및 Fine-tuning](./Use%20AI%20model/실습/Hugging%20Face/사전%20학습%20및%20Fine-Tuning/)  
 
 ## 2024/10
 
