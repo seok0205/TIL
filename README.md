@@ -4,26 +4,30 @@
 
 ## 2024/11
 
+__24/11/08 Today I learned__  
+
+LLM, RAG  
+[concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
+[OpenAI Playground](./LLM,%20RAG/OpenAI%20Playground.md)  
+[Prompt Engineering](./LLM,%20RAG/Prompt%20Engineering.md)  
+
 __24/11/07 Today I learned__  
 
-    LLM, RAG  
-    - concept of LLM  
+LLM, RAG  
+[concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
 
 __24/11/06 Today I learned__  
 
-    Use AI model : 실습  
-    * app(FastAPI, ChatGPT 활용)
-        - Chat service
-    * app2(PyQt5, ElevenLabs 활용)
-        - Voice Translation
-    * app3(OpenCV, YOLOv8 활용)
-        - Real-time object detection
+Use AI model : 실습  
+[app(FastAPI, ChatGPT 활용)](./Use%20AI%20model/실습/app/Chat%20service.md) - Chat service  
+[app2(PyQt5, ElevenLabs 활용)](./Use%20AI%20model/실습/app2/Voice%20Translation.md) - Voice Translation  
+[app3(OpenCV, YOLOv8 활용)](./Use%20AI%20model/실습/app3/Real-time%20object%20detection.ipynb) - Real-time object detection  
 
 __24/11/05 Today I learned__  
 
     Use AI model : 실습  
     * ChatGPT
-        - ChatGPT API
+        - [ChatGPT API](./Use%20AI%20model/실습/ChatGPT/ChatGPT%20API.md)
         - Gpt-4o
     * ElevenLabs
         - eleven_multilingual_v2
