@@ -4,6 +4,17 @@
 
 ## 2024/11
 
+__24/11/11 Today I learned__  
+
+    LLM, RAG  
+    - Prompt Engineering
+    - How to build LLM system
+    - Langchain, FAISS 실습
+
+[Prompt Engineering](./LLM,%20RAG/Prompt%20Engineering.md)  
+[How to build LLM system](./LLM,%20RAG/How%20to%20build%20LLM%20system.md)  
+[Langchain, FAISS 실습](./LLM,%20RAG/실습/Langchain,%20FAISS.ipynb)  
+
 __24/11/08 Today I learned__  
 
     LLM, RAG  
