@@ -145,8 +145,6 @@
         3. 벡터 DB에서 유사한 문서 검색  
         4. 문서 기반 LLM 답변 생성  
   
-[한국어 데이터 임베딩 실습 코드](./실습/Korean%20Sentence%20Embedding.py)  
-
 ## 텍스트 처리 및 임베딩
 
 ### 텍스트 처리
@@ -231,3 +229,9 @@
     - 모델들은 문장의 문맥을 고려해 더 깊이 있는 의미를 반영한 임베딩을 생성. 특히, 문장 단위로 텍스트를 벡터화할 수 있어서 문장 간 유사도를 정확히 파악함.
     - BERT : 양방향으로 문맥을 고려한 임베딩 생성.
     - GPT : 자동 완성 및 생성에 강점을 둔 임베딩 생성.
+
+##### 실습
+
+[한국어 임베딩(Sentence-Transformer)](./실습/Embedding/Korean%20Embedding(Sentence-Transformer).py)  
+[한국어 임베딩(Word2Vec)](./실습/Embedding/Korean%20Embedding(Word2Vec).py)  
+[한국어 임베딩(KoBERT)](./실습/Embedding/Korean%20Embedding(KoBERT).py)  
