@@ -4,6 +4,17 @@
 
 ## 2024/11
 
+__24/11/12 Today I learned__  
+
+    LLm, RAG 
+    - Embedding(KoBERT, Sentence-Transformer, Word2Vec)
+    - textfile Embedding(실습)
+
+[Embedding(KoBERT)](./LLM,%20RAG/실습/Embedding/Korean%20Embedding(KoBERT).py)  
+[Embedding(Sentence-Transformer)](./LLM,%20RAG/실습/Embedding/Korean%20Embedding(Sentence-Transformer).py)  
+[Embedding(Word2Vec)](./LLM,%20RAG/실습/Embedding/Korean%20Embedding(Word2Vec).py)  
+[textfile Embedding(실습)](./LLM,%20RAG/실습/textfile%20Embedding/textfile%20Embedding.ipynb)  
+
 __24/11/11 Today I learned__  
 
     LLM, RAG  

@@ -235,3 +235,4 @@
 [한국어 임베딩(Sentence-Transformer)](./실습/Embedding/Korean%20Embedding(Sentence-Transformer).py)  
 [한국어 임베딩(Word2Vec)](./실습/Embedding/Korean%20Embedding(Word2Vec).py)  
 [한국어 임베딩(KoBERT)](./실습/Embedding/Korean%20Embedding(KoBERT).py)  
+[문서 임베딩 실습](./실습/textfile%20Embedding/textfile%20Embedding.ipynb)  
