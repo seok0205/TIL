@@ -133,7 +133,7 @@
 4. __답변 생성__ : 찾은 유사한 데이터와 함께 LLM 통해 최종 답변 생성.
 5. __API로 제공__ : LangChain 통해 API 형태로 제공, 실제 서비스에서 사용 가능.
 
-- [LangChain, FAISS 활용 실습](./실습/Langchain,%20FAISS.ipynb)
+- [LangChain, FAISS 활용 실습](./실습/Langchain,%20FAISS/Langchain,%20FAISS.ipynb)  
 
 ### Vector DB + RAG
 
