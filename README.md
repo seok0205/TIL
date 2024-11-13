@@ -4,9 +4,16 @@
 
 ## 2024/11
 
+__24/11/13 Today I learned__  
+
+    LLM, RAG
+    - ChatBot(LLM, RAG) 실습
+
+[ChatBot(LLM, RAG) 실습](https://github.com/seok0205/ChatBot-LLM-RAG-.git)
+
 __24/11/12 Today I learned__  
 
-    LLm, RAG 
+    LLM, RAG 
     - Embedding(KoBERT, Sentence-Transformer, Word2Vec)
     - textfile Embedding(실습)
 
