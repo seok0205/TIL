@@ -1,8 +1,15 @@
 # Today I learned  
 
-[Click here to previous TIL, WIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)
+[Click here to previous TIL, WIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)  
 
 ## 2024/11
+
+__24/11/14 Today I learned__  
+
+    LLM, RAG
+    - ChatBot(LLM, RAG) 실습
+
+[ChatBot(LLM, RAG) 실습](https://github.com/seok0205/ChatBot-LLM-RAG-.git)
 
 __24/11/13 Today I learned__  
 
