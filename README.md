@@ -4,6 +4,15 @@
 
 ## 2024/11
 
+__24/11/19 Today I learned__  
+
+    LLM, RAG  
+    - concept of LLM
+    - How to build LLM system
+
+[concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
+[How to build LLM system](./LLM,%20RAG/How%20to%20build%20LLM%20system.md)  
+
 __24/11/15 Todya I learned__  
 
     LLM, RAG
