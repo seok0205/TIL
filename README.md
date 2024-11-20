@@ -13,7 +13,7 @@ __24/11/19 Today I learned__
 [concept of LLM](./LLM,%20RAG/concept%20of%20LLM.md)  
 [How to build LLM system](./LLM,%20RAG/How%20to%20build%20LLM%20system.md)  
 
-__24/11/15 Todya I learned__  
+__24/11/15 Today I learned__  
 
     LLM, RAG
     - ChatBot(LLM, RAG) 실습 : markdown 및 주석 수정
@@ -162,12 +162,16 @@ __24/10/29 Today I learned__
     - Netflix Review score prediction(완료)
     - Netflix Review score prediction(improved Accuracy)(완료)
 
+[Movie_Review_rate_prediction](https://github.com/seok0205/Movie_review_rate_prediction.git)  
+
 __24/10/28 Today I learned__  
 
     CH 2-1  
     - Netflix Review score prediction(미완료)
     - Netflix Review sentiment analyze(NLP)
     - Netflix Review Negative word analyze(WordCloud)
+
+[Movie_Review_rate_prediction](https://github.com/seok0205/Movie_review_rate_prediction.git)  
 
 __24/10/25 Today I learned__  
   
