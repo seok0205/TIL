@@ -4,6 +4,15 @@
 
 ## 2024/11
 
+__24/11/21 Today I learned__  
+
+    LLM, RAG
+    - RAG, Langchain, Langsmith
+    - Translation
+
+[RAG, Langchain, Langsmith](./LLM,%20RAG/실습/Langchain/RAG,%20LangChain,%20LangSmith.py)  
+[Translation](./LLM,%20RAG/실습/Langchain/Translation.py)  
+
 __24/11/20 Today I learned__  
 
     LLM, RAG
