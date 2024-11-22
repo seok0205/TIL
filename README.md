@@ -4,6 +4,13 @@
 
 ## 2024/11
 
+__24/11/22 Today I learned__  
+
+    Streamlit
+    - main, app(기본 문법)
+
+[Streamlit](./Streamlit)  
+
 __24/11/21 Today I learned__  
 
     LLM, RAG
