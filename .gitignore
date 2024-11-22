@@ -1,3 +1,15 @@
+# 환경변수 파일
 *.env
 
-# 환경변수 파일
+# LLM,RAG : 실습 : Langchain
+faiss_index
+
+# Use AI model : 실습 : app
+__pycache__
+
+*.pt
+*.wav
+*.pth
+*.json
+*.safetensors
+*.bin
