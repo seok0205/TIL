@@ -4,12 +4,21 @@
 
 ## 2024/11
 
+__24/11/25 Today I learend__  
+
+    Streamlit
+    - 기본구성_2  
+
+[기본구성_2](./Streamlit/기본구성_2.py)  
+
 __24/11/22 Today I learned__  
 
     Streamlit
-    - main, app(기본 문법)
+    - 기본 구성_1
+    - numpy_1
 
-[Streamlit](./Streamlit)  
+[기본구성_1](./Streamlit/기본구성_1.py)  
+[numpy_1](./Streamlit/numpy_1.py)  
 
 __24/11/21 Today I learned__  
 

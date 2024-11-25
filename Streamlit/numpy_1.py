@@ -1,3 +1,7 @@
+'''
+웹 상에 숫자 표현 및 넘파이를 통한 대표값 표현.
+'''
+
 import streamlit as st
 import numpy as np
 

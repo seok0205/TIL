@@ -1,14 +1,21 @@
+'''
+1. 웹 상에 표현되는 여러 텍스트 표현 방법.
+2. 버튼 및 체크박스 활용.
+3. 게이지 조절(볼륨) 및 항목 체크, 공간 띄우기, 선택박스 활용법.
+4. 데이터프레임 생성 및 간단한 차트를 통한 표현법.
+'''
+
 import streamlit as st
 import pandas as pd
 
-st.title("AI 8기")
-st.header("예제입니다.")
-st.text("유정석")
+st.title("자기소개")
+st.header("유정석")
+st.text("그는 유능한 개발자가 될 사람입니다")
 
-st.markdown("안녕하세요.")
-st.latex("E = mx^3")
+st.markdown("Python을 능숙히 활용할 수 있습니다.")
+st.latex("livin da vida loca")
 
-if st.button("버튼 클릭"):
+if st.button("버튼을 눌러 주세요."):
     st.write("버튼이 클릭되었습니다.")
 
 agree_box = st.checkbox("동의하시겠습니까?")
