@@ -4,11 +4,28 @@
 
 ## 2024/11
 
-__24/11/25 Today I learend__  
+__24/11/26 Today I learned__  
+
+    Chat_Bot_RAG_Agent
+    - embedding(LLM)(RAG)
 
     Streamlit
-    - 기본구성_2  
+    - 고급활용
+    - 고급활용_2
 
+[Chat_Bot_RAG_Agent](https://github.com/seok0205/Chat_Bot_RAG_Agent.git)  
+[고급활용](./Streamlit/고급활용.py)  
+[고급활용_2](./Streamlit/고급활용_2.py)  
+
+__24/11/25 Today I learend__  
+
+    Chat_Bot_RAG_Agent
+    - collect_news_data
+
+    Streamlit
+    - 기본구성_2
+
+[Chat_Bot_RAG_Agent](https://github.com/seok0205/Chat_Bot_RAG_Agent.git)  
 [기본구성_2](./Streamlit/기본구성_2.py)  
 
 __24/11/22 Today I learned__  
