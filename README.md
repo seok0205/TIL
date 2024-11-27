@@ -4,10 +4,21 @@
 
 ## 2024/11
 
+__24/11/27 Today I learned__  
+
+    LLM_RAG_Team_Project
+    - collect_data
+
+    Chat_Bot_RAG_Agent
+    - chat_bot
+
+[Chat_Bot_RAG_Agent](https://github.com/seok0205/Chat_Bot_RAG_Agent.git)  
+[LLM_RAG_Team_Project](https://github.com/wriml92/LLM_RAG_Team_Project.git)  
+
 __24/11/26 Today I learned__  
 
     Chat_Bot_RAG_Agent
-    - embedding(LLM)(RAG)
+    - embedding
 
     Streamlit
     - 고급활용
