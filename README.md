@@ -4,6 +4,13 @@
 
 ## 2024/11
 
+__24/11/28 Today I learned__  
+
+    LLM_RAG_Team_Project
+    - collect_data
+
+[LLM_RAG_Team_Project](https://github.com/wriml92/LLM_RAG_Team_Project.git)  
+
 __24/11/27 Today I learned__  
 
     LLM_RAG_Team_Project
