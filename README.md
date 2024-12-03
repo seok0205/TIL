@@ -2,6 +2,24 @@
 
 [Click here to previous TIL, WIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)  
 
+## 2024/12
+
+__24/12/03 Today I learned__  
+
+    LLM_RAG_Team_Project
+    - chat bot 기능 추가(다국어 지원, 실시간 데이터 업데이트, 음성 입력 및 출력 (elevenlabs))
+    - app2.py(streamlit), style.css(css)
+
+[LLM_RAG_Team_Project](https://github.com/wriml92/LLM_RAG_Team_Project.git)  
+
+__24/12/02 Today I learned__  
+
+    LLM_RAG_Team_Project
+    - llm_model_rag(파일안에 있는 모든 json data를 llm 모델에 학습.)
+    - app2(streamlit)
+
+[LLM_RAG_Team_Project](https://github.com/wriml92/LLM_RAG_Team_Project.git)  
+
 ## 2024/11
 
 __24/11/29 Today I learned__  
