@@ -4,6 +4,17 @@
 
 ## 2024/12
 
+__24/12/04 Today I learned__  
+
+    Web Crawling
+    - static_BeautifulSoup
+    - static_hollys_store
+    - static_naver_search
+
+[정적 웹 크롤링(naver)](./Web%20Crawling/static_naver_search.ipynb)  
+[정적 웹 크롤링(parsing)](./Web%20Crawling/static_BeautifulSoup.ipynb)  
+[정적 웹 크롤링(hollys)](./Web%20Crawling/static_hollys_store.ipynb)  
+
 __24/12/03 Today I learned__  
 
     LLM_RAG_Team_Project
