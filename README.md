@@ -4,6 +4,19 @@
 
 ## 2024/12
 
+__24/12/05 Today I learned__  
+
+    Web Crawling
+    - static_samsung_stock
+    - dynamic_selenium
+    - dynamic_starbucks_store
+    - dynamic_riss
+
+[정적 웹 크롤링(네이버 주식(삼전))](./Web%20Crawling/static_samsung_stock.ipynb)  
+[동적 웹 크롤링(기본)](./Web%20Crawling/dynamic_selenium.ipynb)  
+[동적 웹 크롤링(starbucks)](./Web%20Crawling/dynamic_starbucks_store.ipynb)  
+[동적 웹 크롤링(riss(논문 사이트))](./Web%20Crawling/dynamic_riss.ipynb)  
+
 __24/12/04 Today I learned__  
 
     Web Crawling
