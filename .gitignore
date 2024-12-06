@@ -14,3 +14,5 @@ __pycache__
 *.safetensors
 *.bin
 *.csv
+
+.idea
