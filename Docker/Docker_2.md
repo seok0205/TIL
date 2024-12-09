@@ -72,3 +72,26 @@
                 - 다양한 action들 사용
             - with : plugin에서 사용할 파라미터들
             - run : 실제로 실행할 스크립트
+
+### Workflow Example
+
+- push 되었을 때 실행되는 Github actions 예제
+[Workflow 예제](https://github.com/seok0205/Github_Acitons_Ex.git)  
+
+## GitHub Actions CI
+
+1. develop이나 feature로 시작하는 브랜치에 코드가 push 되거나 develop을 destination으로 하는 pull request가 생성되면
+2. ./gradlew clean test를 실행함
+
+[CI 실습](https://github.com/seok0205/ci_sample.git)  
+
+## GitHub Actions CD
+
+1. 'feature/'로 시작하는 브랜치를 만들어서 test코드를 포함한 수정 작업을 완료한 뒤 pull request 생성
+2. (자동화)pull request를 만들면 해당 브랜치에 대해 gradle test를 수행
+3. pull request 코드의 test가 실패한 경우, pull request를 생성한 개발자는 test 코드를 수정하여 pull request를 변경
+4. pull request 코드의 test가 성공한 경우, 다른 개발자들의 승인을 기다림
+5. 다른 개발자들은 pull request의 코드를 승인하거나 댓글로 소통
+6. (자동화)main 브랜치에 merge 되면 해당 브랜치를 cloudtype 서버에 배포
+
+[CD 실습](https://github.com/seok0205/cicd.git)  
