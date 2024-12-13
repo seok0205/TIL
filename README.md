@@ -4,6 +4,15 @@
 
 ## 2024/12
 
+__24/12/13 Today I learned__  
+
+    Django
+    - Django_1
+    - Django_2
+
+[Django_1](./Django/Django_1.md)  
+[Django_2](./Django/Django_2.md)  
+
 __24/12/12 Today I learned__  
 
     Docker
