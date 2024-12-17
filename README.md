@@ -4,6 +4,16 @@
 
 ## 2024/12
 
+__24/12/17 Today I learned__  
+
+    - YouTube API, RAG(hybrid search) 활용 Agent
+    
+    Django
+    - Django_2
+
+[Seok_RAG_Agent](https://github.com/seok0205/Seok_RAG_Agent.git)  
+[Django_2](./Django/Django_2.md)  
+
 __24/12/16 Today I learned__  
 
     - YouTube API, RAG(hybrid search) 활용 Agent
