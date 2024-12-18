@@ -4,6 +4,19 @@
 
 ## 2024/12
 
+__24/12/18 Today I learned__  
+
+    Django
+    - 다중 앱, url
+    - Django Model
+    - Django ORM
+    - Django MTV(CR)
+
+[다중 앱, url](./Django/다중%20앱,%20url.md)  
+[Django Model](./Django/Django%20Model.md)  
+[Django ORM](./Django/Django%20ORM.md)  
+[Django MTV(CR)](./Django/Django%20MTV(CR).md)  
+
 __24/12/17 Today I learned__  
 
     - YouTube API, RAG(hybrid search) 활용 Agent
