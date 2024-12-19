@@ -4,6 +4,17 @@
 
 ## 2024/12
 
+__24/12/19 Today I learend__  
+
+    Django
+    - Django MTV(RUD)
+    - Django Form
+    - Django URL Namespace
+
+[Django MTV(RUD)](./Django/Django%20MTV(RUD).md)  
+[Django Form](./Django/Django%20Form.md)  
+[Django URL Namespace](./Django/Django%20URL%20Namespace.md)  
+
 __24/12/18 Today I learned__  
 
     Django
