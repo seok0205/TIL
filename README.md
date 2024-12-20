@@ -4,6 +4,15 @@
 
 ## 2024/12
 
+__24/12/20 Today I learend__  
+
+    Django
+    - Django Auth
+    - Django 회원기능
+
+[Django Auth](./Django/Django%20Auth.md)  
+[Django 회원기능](./Django/Django%20회원기능.md)  
+
 __24/12/19 Today I learend__  
 
     Django
