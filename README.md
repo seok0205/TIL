@@ -4,6 +4,17 @@
 
 ## 2024/12
 
+__24/12/24 Today I learend__  
+
+    Django
+    - Django_static_media
+    - Django_Admin
+    - Django_Model_Relationship
+
+[Django_static_media](./Django/Django_static_media.md)  
+[Django_Admin](./Django/Django_Admin.md)  
+[Django_Model_Relationship](./Django/Django_Model_Relationship.md)  
+
 __24/12/20 Today I learend__  
 
     Django
