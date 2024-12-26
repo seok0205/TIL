@@ -4,6 +4,15 @@
 
 ## 2024/12
 
+__24/12/26 Today I learned__  
+
+    Django
+    - Django_Custom_UserModel
+    - Django_Model_Relationship_2
+
+[Django_Custom_UserModel](./Django/Django_Custom_UserModel.md)  
+[Django_Model_Relationship_2](./Django/Django_Model_Relationship_2.md)  
+
 __24/12/24 Today I learend__  
 
     Django
