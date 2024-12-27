@@ -4,6 +4,15 @@
 
 ## 2024/12
 
+__24/12/27 Today I learned__  
+
+    Django
+    - RESTful_API_JSON
+    - URL
+
+[RESTful_API_JSON](./Django_DRF/RESTful_API_JSON.md)  
+[URL](./Django_DRF/URL.md)  
+
 __24/12/26 Today I learned__  
 
     Django
