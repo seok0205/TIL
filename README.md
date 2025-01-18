@@ -7,15 +7,15 @@
 __25/01/18 Today I learned__  
 
     Docker
-    - Docker_심화
+    - Docker_compose
 
     Python
-    - 문자열
-    - 숫자형
+    - string
+    - numeric
 
-[Docker_심화](./Docker/Docker_심화.md)  
-[숫자형](./Python/자료형/숫자형.md)  
-[문자열](./Python/자료형/문자열.md)  
+[Docker_compose](./Docker/Docker_compose.md)  
+[numeric](./Python/data_type/numeric.md)  
+[string](./Python/data_type/string.md)  
 
 ## 2024/12
 
