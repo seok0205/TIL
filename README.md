@@ -2,6 +2,21 @@
 
 [Click here to previous TIL, WIL](https://linkinpark0205.tistory.com/category/TIL%20%2B%20WIL)  
 
+## 2025/01
+
+__25/01/18 Today I learned__  
+
+    Docker
+    - Docker_심화
+
+    Python
+    - 문자열
+    - 숫자형
+
+[Docker_심화](./Docker/Docker_심화.md)  
+[숫자형](./Python/자료형/숫자형.md)  
+[문자열](./Python/자료형/문자열.md)  
+
 ## 2024/12
 
 __24/12/27 Today I learned__  
