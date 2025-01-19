@@ -4,12 +4,47 @@
 
 ## 2025/01
 
+__25/01/19 Today I learned__  
+
+    Python - data_type
+    - list
+    - tuple
+    - dictionary
+    - set
+    - bool
+    - variable
+
+    Python - control_statement
+    - if
+    - while
+    - for
+
+    Python - Input_Output
+    - function
+    - user_input_output
+    - read_write_file
+    - program_input_output
+
+[list](./Python/data_type/list.md)  
+[tuple](./Python/data_type/tuple.md)  
+[dictionary](./Python/data_type/dictionary.md)  
+[set](./Python/data_type/set.md)  
+[bool](./Python/data_type/bool.md)  
+[variable](./Python/data_type/variable.md)  
+[if](./Python/control_statement/if.md)  
+[while](./Python/control_statement/while.md)  
+[for](./Python/control_statement/for.md)  
+[function](./Python/Input_Output/function.md)  
+[user_input_output](./Python/Input_Output/user_input_output.md)  
+[read_write_file](./Python/Input_Output/read_write_file.md)  
+[program_input_output](./Python/Input_Output/program_input_output.md)  
+
 __25/01/18 Today I learned__  
 
     Docker
     - Docker_compose
 
-    Python
+    Python - data_type
     - string
     - numeric
 
