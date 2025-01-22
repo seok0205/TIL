@@ -4,6 +4,13 @@
 
 ## 2025/01
 
+__25/01/22 Today I learned__  
+
+    Python - advanced_concepts
+    - class
+
+[class](./Python/advanced_concepts/class.md)  
+
 __25/01/19 Today I learned__  
 
     Python - data_type
