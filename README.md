@@ -4,6 +4,19 @@
 
 ## 2025/01
 
+__25/01/26 Today I learned__  
+
+    Python - advanced_concepts
+    - module
+    - package
+    - exception_handling
+    - built_in_functions
+
+[module](./Python/advanced_concepts/module.md)  
+[package](./Python/advanced_concepts/package.md)  
+[exception_handling](./Python/advanced_concepts/exception_handling.md)  
+[built_in_function](./Python/advanced_concepts/built_in_functions.md)  
+
 __25/01/22 Today I learned__  
 
     Python - advanced_concepts
