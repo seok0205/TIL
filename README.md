@@ -4,6 +4,15 @@
 
 ## 2025/01
 
+__25/01/28 Today I learend__  
+
+    Python - advanced_concepts
+    - standard_library
+    - external_library
+
+[standard_library](./Python/advanced_concepts/standard_library.md)  
+[external_library](./Python/advanced_concepts/external_library.md)  
+
 __25/01/26 Today I learned__  
 
     Python - advanced_concepts
