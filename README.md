@@ -4,6 +4,15 @@
 
 ## 2025/01
 
+__25/01/30 Today I learned__  
+
+    JAVA - data_type
+    - 1_1_number
+    - 1_2_bool
+
+[1_1_number](./JAVA/data_type/1_1_number.md)  
+[1_2_bool](./JAVA/data_type/1_2_bool.md)  
+
 __25/01/28 Today I learend__  
 
     Python - advanced_concepts
